@@ -73,7 +73,6 @@ img {
 }
 
 #menu ul#menu_principal li {
-  display: inline;
   float: left;
 }
 
@@ -180,4 +179,17 @@ img {
 
 #cabecera h1 {
   color: #ae4144;
+}
+
+div ul li {
+  margin-left: 120px;
+}
+
+div ul li a {
+  display: flex;
+  align-items: center;
+}
+
+#logo {
+  width: 200px;
 }
